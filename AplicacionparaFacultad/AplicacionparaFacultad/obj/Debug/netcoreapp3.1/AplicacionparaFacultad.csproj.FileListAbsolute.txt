@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\AplicacionparaFacultad\AplicacionparaFacultad\obj\Debug\netcoreapp3.1\AplicacionparaFacultad.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\AplicacionparaFacultad\AplicacionparaFacultad\obj\Debug\netcoreapp3.1\AplicacionparaFacultad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\AplicacionparaFacultad\AplicacionparaFacultad\obj\Debug\netcoreapp3.1\AplicacionparaFacultad.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\AplicacionparaFacultad\AplicacionparaFacultad\obj\Debug\netcoreapp3.1\AplicacionparaFacultad.AssemblyInfo.cs
+C:\Users\usuario\source\repos\AplicacionparaFacultad\AplicacionparaFacultad\obj\Debug\netcoreapp3.1\AplicacionparaFacultad.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\AplicacionparaFacultad\AplicacionparaFacultad\bin\Debug\netcoreapp3.1\AplicacionparaFacultad.exe
+C:\Users\usuario\source\repos\AplicacionparaFacultad\AplicacionparaFacultad\bin\Debug\netcoreapp3.1\AplicacionparaFacultad.deps.json
+C:\Users\usuario\source\repos\AplicacionparaFacultad\AplicacionparaFacultad\bin\Debug\netcoreapp3.1\AplicacionparaFacultad.runtimeconfig.json
+C:\Users\usuario\source\repos\AplicacionparaFacultad\AplicacionparaFacultad\bin\Debug\netcoreapp3.1\AplicacionparaFacultad.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\AplicacionparaFacultad\AplicacionparaFacultad\bin\Debug\netcoreapp3.1\AplicacionparaFacultad.dll
+C:\Users\usuario\source\repos\AplicacionparaFacultad\AplicacionparaFacultad\bin\Debug\netcoreapp3.1\AplicacionparaFacultad.pdb
+C:\Users\usuario\source\repos\AplicacionparaFacultad\AplicacionparaFacultad\obj\Debug\netcoreapp3.1\AplicacionparaFacultad.dll
+C:\Users\usuario\source\repos\AplicacionparaFacultad\AplicacionparaFacultad\obj\Debug\netcoreapp3.1\AplicacionparaFacultad.pdb
+C:\Users\usuario\source\repos\AplicacionparaFacultad\AplicacionparaFacultad\obj\Debug\netcoreapp3.1\AplicacionparaFacultad.genruntimeconfig.cache
